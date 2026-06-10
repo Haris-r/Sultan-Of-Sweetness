@@ -1,0 +1,22 @@
+npm warn cli npm v10.7.0 does not support Node.js v16.15.1. This version of npm supports the following node versions: `^18.17.0 || >=20.5.0`. You can find the latest version at https://nodejs.org/.
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@testing-library/dom@10.4.1',
+npm warn EBADENGINE   required: { node: '>=18' },
+npm warn EBADENGINE   current: { node: 'v16.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@testing-library/react@16.3.2',
+npm warn EBADENGINE   required: { node: '>=18' },
+npm warn EBADENGINE   current: { node: 'v16.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'postcss-load-config@6.0.1',
+npm warn EBADENGINE   required: { node: '>= 18' },
+npm warn EBADENGINE   current: { node: 'v16.15.1', npm: '10.7.0' }
+npm warn EBADENGINE }
+add fsevents 2.3.3
+
+added 1 package in 3s
+
+269 packages are looking for funding
+  run `npm fund` for details
